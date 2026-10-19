@@ -1,0 +1,12 @@
+{
+  "name": "dental-x-ray",
+  "version": "1.0.0",
+  "description": "![Status](https://img.shields.io/badge/status-in%20development-yellow)\r ![License](https://img.shields.io/badge/license-MIT-blue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
