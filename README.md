@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦷 DentAI - Dental X-Ray Lesion Detection & Smart Report Generator
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
@@ -258,3 +259,6 @@ For support, email support@dentai.com or open an issue in the repository.
 ---
 
 **Made with ❤️ for better dental healthcare**
+=======
+# Dental_x-ray_analysis-
+>>>>>>> 296cc4813b57a0e0c1c7a9e79d6bb3358a11d3bd
